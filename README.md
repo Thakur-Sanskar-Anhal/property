@@ -111,7 +111,7 @@ Technologies that can be used:
     - Blockchain explorers: Tools for tracking transactions and monitoring blockchain activity.
 
 Pseudo Code for the smart contract:
-
+```
 contract PropertyRegistry {
 
 // Define property struct
@@ -169,7 +169,7 @@ emit PropertyRented(msg.sender, \_location, \_price, \_leaseDuration);
 }
 
 }
-
+```
 Explanation:
 
 1. **Property Struct**:
